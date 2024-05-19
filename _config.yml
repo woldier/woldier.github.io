@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Bin Wang"
-  pronouns         : "her" # example: "she/her"  
+  pronouns         : # "her" # example: "she/her"  
   bio              : "A Balloon's  Journey"
   location         : "Chengdu, CN"
   employer         : "Chengdu University of Technology"
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
