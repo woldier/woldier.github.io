@@ -7,6 +7,9 @@
 # server process.
 
 # Basic Site Settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "contrast" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
