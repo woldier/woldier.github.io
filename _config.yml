@@ -71,8 +71,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-
-
+# code copy
+enable_copy_code_button: true
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
