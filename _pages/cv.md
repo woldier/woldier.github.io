@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* (Currently) M.S. in Computer Science, Chengdu University of Technology, 2025 
+* B.S. in Computer Science, Chengdu University of Technology, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Software Development Internship
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties includes: software development
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+* Fall 2021: Research Assistant
+  * Chengdu University of Technology
+  * Duties included: A study of surface wave forward and inverse methods
+  * Supervisor: Prof. Fei Deng
+
+* Summer 2020: Research Assistant
+  * Chengdu University of Technology
+  * Duties included: A study of surface wave forward methods
+  * Supervisor: Prof. Fei Deng
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++
+* Java
+* Python
 
 Publications
 ======
@@ -47,11 +44,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+[//]: # (Talks)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.talks reversed %})
+
+[//]: # (    {% include archive-single-talk-cv.html  %})
+
+[//]: # (  {% endfor %}</ul>)
   
 Teaching
 ======
@@ -59,6 +60,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[//]: # (Service and leadership)
+
+[//]: # (======)
+
+[//]: # (* Currently signed in to 43 different slack teams)
