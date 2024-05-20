@@ -15,6 +15,9 @@ description              : &description "personal description"
 url                      : https://woldier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "woldier/woldier.github.io"
+
+theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: contrast" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
