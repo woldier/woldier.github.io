@@ -10,7 +10,7 @@ redirect_from:
 ### woldier’s academic personal websites
 
 ---
-I am a PhD student at  College of Computer Science and Cyber Security, Chengdu University of Technology, supervised by Fei Deng.
+I am a master's student at  College of Computer Science and Cyber Security, Chengdu University of Technology, supervised by Fei Deng.
 
 Before that, I obtained my Bachelor's Degree in Computer Science from  the Chengdu University of Technology.
 ### research interest
