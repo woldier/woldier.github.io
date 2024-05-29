@@ -16,7 +16,7 @@ I am a master's student at  College of Computer Science and Cyber Security, Chen
 
 Before that, I obtained my Bachelor's Degree in Computer Science from  the Chengdu University of Technology.
 
-Here are some of my [publications](https://woldier.github.io/publications/).
+Here are some of my [paper](https://woldier.github.io/publications/).
 ### 🔭 Research interest
 
 ---
