@@ -12,9 +12,9 @@ redirect_from:
 ---
 My name is **Bin Wang (王斌)**.
 
-I am a PhD student at  College of Computer Science, Sichuan University, supervised by Yiguang Liu.
+I am a PhD student at  College of Computer Science, Sichuan University, supervised by **Yiguang Liu**.
 
-Before that, I obtained my Bachelor's and Master's Degree in Computer Science from  the Chengdu University of Technology, supervised by Fei Deng.
+Before that, I obtained my Bachelor's and Master's Degree in Computer Science from  the Chengdu University of Technology, supervised by **Fei Deng**.
 
 Here are some of my [paper](https://woldier.github.io/publications/).
 
