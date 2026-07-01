@@ -16,6 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
+
 # 👋 Hello, World! 
 
 I'm **Bin Wang (王斌)**, a passionate computer science researcher 
@@ -30,34 +32,20 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- **[2022.02]**: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- **[2022.02]**: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- **[2026.05]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([EntSeg](https://ieeexplore.ieee.org/abstract/document/11534173/))! 
+- **[2026.03]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([Bridge](https://ieeexplore.ieee.org/document/11434537))! 
+- **[2026.01]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([ProSFDA](https://ieeexplore.ieee.org/abstract/document/11464091/))!  
 
 <details markdown="1">
-<summary>▶️ 点击展开查看全部</summary>
+<summary>▶️ More News</summary>
 
-- **[2024.08]** One paper is accepted by **TGRS** ([DIAnet](https://arxiv.org/abs/2401.03182))!  
-- **[2024.03]** One paper is accepted by **TCSVT** ([MIViT](https://arxiv.org/abs/2401.03179))!  
-- **[2024.03]** One paper is accepted by **TGRS** ([SwiMDiff](https://arxiv.org/abs/2401.05093))!  
-- **[2023.12]** One paper is accepted by **AAAI** ([MDFL](https://arxiv.org/abs/2311.09520))!  
-- **[2023.10]** One paper is accepted by **ACM** ([HyBNN](https://dl.acm.org/doi/abs/10.1145/3631610))!  
-- **[2023.12]** Win National Scholarship for PhD Student! 博士国家奖学金  
-- **[2023.08]** One paper is accepted by **RS** ([IABC](https://www.mdpi.com/2072-4292/15/17/4255))!  
-- **[2023.07]** One paper is accepted by **TGRS** ([GHOST](https://ieeexplore.ieee.org/abstract/document/10175627))!  
-- **[2023.07]** One paper is accepted by **FPGA Poster**!  
-- **[2023.03]** One paper is accepted by **TGRS** ([SuperYOLO](https://ieeexplore.ieee.org/abstract/document/10075555))!  
-- **[2023.03]** One paper is accepted by **TGRS** ([SSAD](https://ieeexplore.ieee.org/abstract/document/10081072))!  
-- **[2021.10]** Win National Scholarship for Master Student! 硕士国家奖学金  
-- **[2021.05]** One paper is accepted by **NN** ([SSL](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002252))!  
-- **[2021.05]** Win the first prize of the second "Tianzhi Cup" Artificial Intelligence Challenge!  
-- **[2020.12]** Win the second prize of high-performance Architecture Group 1 of the first "Intelligent Computing Cup" Challenge!  
+- **[2024.05]** One paper is accepted by **TGRS** ([TEMSGnet](https://ieeexplore.ieee.org/abstract/document/10533855/))!  
 
 </details>
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - now*, Ph.D. at [Sichuan University](https://www.scu.edu.cn/), supervised by Prof. Yiguang Liu. 
+- *2018.09 - 2025.06*, B.S && M.S at [Chengdu University of Technology](https://www.cdut.edu.cn/), supervised by Prof. Fei Deng. 
 
 # 📝 Publications 
 
@@ -68,7 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'>
     <div>
         <div class="badge">TGRS 2026</div>
-        <img src='images/500x300.png' alt="bridge" width="80%">
+        <img src='images/bridge-img.png' alt="bridge" width="50%">
     </div>
 </div>
 <div class='paper-box-text' markdown="1">
