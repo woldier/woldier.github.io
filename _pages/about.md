@@ -24,7 +24,7 @@ I'm **Bin Wang (王斌)**, a passionate computer science researcher
 and a developer with a deep focus on **Computer Vision**.
 
 I'm driven by the impact of technology, especially in the fields of
-**Remote Sensing**, and **Signal Processing**.
+**Remote Sensing**.
 
 [//]: # (Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.)
 
@@ -45,7 +45,7 @@ I'm driven by the impact of technology, especially in the fields of
 
 # 📖 Educations
 - *2025.09 - now*, Ph.D. at [Sichuan University](https://www.scu.edu.cn/), supervised by Prof. Yiguang Liu. 
-- *2018.09 - 2025.06*, B.S && M.S at [Chengdu University of Technology](https://www.cdut.edu.cn/), supervised by Prof. Fei Deng. 
+- *2018.09 - 2025.06*, B.S and M.S at [Chengdu University of Technology](https://www.cdut.edu.cn/), supervised by Prof. Fei Deng. 
 
 # 📝 Publications 
 
