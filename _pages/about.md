@@ -28,13 +28,13 @@ I'm driven by the impact of technology, especially in the fields of
 
 [//]: # (Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.)
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+[//]: # (My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> &#40;You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;.)
 
 
 # 🔥 News
 - **[2026.05]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([EntSeg](https://ieeexplore.ieee.org/abstract/document/11534173/))! 
 - **[2026.03]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([Bridge](https://ieeexplore.ieee.org/document/11434537))! 
-- **[2026.01]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([ProSFDA](https://ieeexplore.ieee.org/abstract/document/11464091/))!  
+- **[2026.01]** &nbsp;🎉🎉 One paper is accepted by **ICASSP** ([ProSFDA](https://ieeexplore.ieee.org/abstract/document/11464091/))!  
 
 <details markdown="1">
 <summary>▶️ More News</summary>
@@ -56,7 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'>
     <div>
         <div class="badge">TGRS 2026</div>
-        <img src='images/bridge-img.png' alt="bridge" width="50%">
+        <img src='images/bridge-img.png' alt="Bridge" width="100%">
     </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -70,8 +70,34 @@ Bridge: Leveraging vision foundation models for efficient cross-domain remote se
 [//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 [[Paper](https://ieeexplore.ieee.org/abstract/document/11434537/)]
-[[Repo](https://github.com/woldier/bridge)]
+[[Official Repo](https://github.com/woldier/bridge)]
 ![img](https://img.shields.io/github/stars/woldier/bridge)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'>
+    <div>
+        <div class="badge">TGRS 2026</div>
+        <img src='images/entseg-img.png' alt="EntSeg" width="100%">
+    </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+EntSeg: Entropy-Guided Pseudo-Label Denoising and Masked Image Consistency 
+for Cross-Domain Remote Sensing Segmentation
+
+
+**Bin Wang**, Zeyu Chen, Shun Lv, Fei Deng, Yiguang Liu
+
+[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
+
+[//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[[Paper](https://ieeexplore.ieee.org/document/11534173)]
+[[Official Repo](https://github.com/woldier/EntSeg)]
+![img](https://img.shields.io/github/stars/woldier/EntSeg)
 
 </div>
 </div>
@@ -79,8 +105,8 @@ Bridge: Leveraging vision foundation models for efficient cross-domain remote se
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*, National Scholarship for Postgraduate Student, Ministry of Education, China | 研究生国家奖学金
+- *2024.10*, First Class Postgraduate Scholarship, Ministry of Education, China | 一等学业奖学金. 
 
 
 [//]: # (# 💬 Invited Talks)
