@@ -90,8 +90,8 @@ Bridge: Leveraging vision foundation models for efficient cross-domain remote se
 [//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 [[Paper](https://ieeexplore.ieee.org/abstract/document/11434537/)]
-[[Official Repo](https://github.com/woldier/bridge)]
-![img](https://img.shields.io/github/stars/woldier/bridge)
+[[Official Repo](https://github.com/woldier/Bridge)]
+![img](https://img.shields.io/github/stars/woldier/Bridge)
 
 </div>
 </div>
