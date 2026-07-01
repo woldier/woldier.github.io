@@ -56,7 +56,7 @@ I'm driven by the impact of technology, especially in the fields of
 <div class='paper-box'><div class='paper-box-image'>
     <div>
         <div class="badge">TGRS 2026</div>
-        <img src='images/bridge-img.png' alt="Bridge" width="100%">
+        <img src='https://github.com/woldier/pro-sfda/blob/main/figs/overview.png' alt="Bridge" width="100%">
     </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -80,7 +80,7 @@ Bridge: Leveraging vision foundation models for efficient cross-domain remote se
 <div class='paper-box'><div class='paper-box-image'>
     <div>
         <div class="badge">TGRS 2026</div>
-        <img src='images/entseg-img.png' alt="EntSeg" width="100%">
+        <img src='images/entseg-img.png' alt="EntSeg" width="80%">
     </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -100,7 +100,7 @@ for Cross-Domain Remote Sensing Segmentation
 <div class='paper-box'><div class='paper-box-image'>
     <div>
         <div class="badge">ICASSP 2026</div>
-        <img src='images/prosfda-img.png' alt="ProSFDA" width="100%">
+        <img src='images/prosfda-img.png' alt="ProSFDA" width="80%">
     </div>
 </div>
 <div class='paper-box-text' markdown="1">
