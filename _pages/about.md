@@ -76,7 +76,7 @@ Bridge: Leveraging vision foundation models for efficient cross-domain remote se
 </div>
 </div>
 
-
+[//]: # (====================new item=======================================)
 <div class='paper-box'><div class='paper-box-image'>
     <div>
         <div class="badge">TGRS 2026</div>
@@ -88,25 +88,39 @@ Bridge: Leveraging vision foundation models for efficient cross-domain remote se
 EntSeg: Entropy-Guided Pseudo-Label Denoising and Masked Image Consistency 
 for Cross-Domain Remote Sensing Segmentation
 
-
 **Bin Wang**, Zeyu Chen, Shun Lv, Fei Deng, Yiguang Liu
-
-[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
-
-[//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 [[Paper](https://ieeexplore.ieee.org/document/11534173)]
 [[Official Repo](https://github.com/woldier/EntSeg)]
 ![img](https://img.shields.io/github/stars/woldier/EntSeg)
+</div>
+</div>
 
+[//]: # (====================new item=======================================)
+<div class='paper-box'><div class='paper-box-image'>
+    <div>
+        <div class="badge">ICASSP 2026</div>
+        <img src='images/prosfda-img.png' alt="ProSFDA" width="100%">
+    </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+Prototype-Based Pseudo-Label Denoising for Source-Free Domain Adaptation 
+in Remote Sensing Semantic Segmentation
+
+**Bin Wang**, Fei Deng, Zeyu Chen, Zhicheng Yu, Yiguang Liu
+
+[[Paper](https://ieeexplore.ieee.org/abstract/document/11464091)]
+[[Official Repo](https://github.com/woldier/pro-sfda)]
+![img](https://img.shields.io/github/stars/woldier/pro-sfda)
 </div>
 </div>
 
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
-- *2024.10*, National Scholarship for Postgraduate Student, Ministry of Education, China | 研究生国家奖学金
-- *2024.10*, First Class Postgraduate Scholarship, Ministry of Education, China | 一等学业奖学金. 
+- *2024.10*, National Scholarship for Postgraduate Student, Ministry of Education, China \| 研究生国家奖学金
+- *2024.10*, First Class Postgraduate Scholarship, Ministry of Education, China \| 一等学业奖学金. 
 
 
 [//]: # (# 💬 Invited Talks)
