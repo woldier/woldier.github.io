@@ -53,6 +53,26 @@ I'm driven by the impact of technology, especially in the fields of
 
 [//]: # (<a href='https://scholar.google.com.hk/citations?user=Df8myR8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flikyoo%2Flikyoo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.)
 
+[//]: # (====================new item=======================================)
+<div class='paper-box'><div class='paper-box-image'>
+    <div>
+        <div class="badge">Under Review</div>
+        <img src='images/msre-img.png' alt="MsRE" width="100%">
+    </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+MsRE: Towards Efficient Remote Sensing Segmentation via Vision Foundation Models
+
+**Bin Wang**, Shun Lv, Zhi Li, Fei Deng and Yiguang Liu
+
+[[Paper](#)]
+[[Official Repo](https://github.com/woldier/MsRE)]
+![img](https://img.shields.io/github/stars/woldier/MsRE)
+</div>
+</div>
+
+[//]: # (====================new item=======================================)
 <div class='paper-box'><div class='paper-box-image'>
     <div>
         <div class="badge">TGRS 2026</div>
@@ -99,6 +119,26 @@ for Cross-Domain Remote Sensing Segmentation
 [//]: # (====================new item=======================================)
 <div class='paper-box'><div class='paper-box-image'>
     <div>
+        <div class="badge">Under Review</div>
+        <img src='images/geoad-img.png' alt="Geoad" width="100%">
+    </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+Geoad: Efficient Continual Pre-Training of Vision
+Foundation Models for Remote Sensing
+
+**Bin Wang**, Shun Lv, Shaobing Gao, Fei Deng and Yiguang Liu
+
+[[Paper](#)]
+[[Official Repo](https://github.com/woldier/geoad)]
+![img](https://img.shields.io/github/stars/woldier/geoad)
+</div>
+</div>
+
+[//]: # (====================new item=======================================)
+<div class='paper-box'><div class='paper-box-image'>
+    <div>
         <div class="badge">ICASSP 2026</div>
         <img src='images/prosfda-img.png' alt="ProSFDA" width="80%">
     </div>
@@ -115,6 +155,14 @@ in Remote Sensing Semantic Segmentation
 ![img](https://img.shields.io/github/stars/woldier/pro-sfda)
 </div>
 </div>
+
+
+
+
+
+
+
+
 
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
