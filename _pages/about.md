@@ -56,7 +56,7 @@ I'm driven by the impact of technology, especially in the fields of
 <div class='paper-box'><div class='paper-box-image'>
     <div>
         <div class="badge">TGRS 2026</div>
-        <img src='https://github.com/woldier/pro-sfda/blob/main/figs/overview.png' alt="Bridge" width="100%">
+        <img src='images/bridge-img.png' alt="Bridge" width="100%">
     </div>
 </div>
 <div class='paper-box-text' markdown="1">
