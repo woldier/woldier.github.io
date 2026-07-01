@@ -100,7 +100,7 @@ Bridge: Leveraging vision foundation models for efficient cross-domain remote se
 <div class='paper-box'><div class='paper-box-image'>
     <div>
         <div class="badge">TGRS 2026</div>
-        <img src='images/entseg-img.png' alt="EntSeg" width="80%">
+        <img src='images/entseg-img.png' alt="EntSeg" width="100%">
     </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -140,7 +140,7 @@ Foundation Models for Remote Sensing
 <div class='paper-box'><div class='paper-box-image'>
     <div>
         <div class="badge">ICASSP 2026</div>
-        <img src='images/prosfda-img.png' alt="ProSFDA" width="80%">
+        <img src='images/prosfda-img.png' alt="ProSFDA" width="100%">
     </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -158,6 +158,48 @@ in Remote Sensing Semantic Segmentation
 
 
 
+[//]: # (====================new item=======================================)
+<div class='paper-box'><div class='paper-box-image'>
+    <div>
+        <div class="badge">CIBM 2024</div>
+        <img src='images/eegdir-img.png' alt="EEGDiR" width="100%">
+    </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+EEGDiR: Electroencephalogram denoising network for temporal 
+information storage and global modeling through Retentive Network
+
+**Bin Wang**, Fei Deng, Peifan Jiang
+
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10533855)]
+[[Official Repo](https://github.com/woldier/EEGDiR)]
+![img](https://img.shields.io/github/stars/woldier/EEGDiR)
+</div>
+</div>
+
+
+[//]: # (====================new item=======================================)
+<div class='paper-box'><div class='paper-box-image'>
+    <div>
+        <div class="badge">TGRS 2024</div>
+        <img src='images/temsgnet-img.png' alt="TGMSGNet" width="100%">
+    </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+Semi-airborne transient electromagnetic denoising through variation diffusion model
+
+Fei Deng, **Bin Wang***, Peifan Jiang, Xuben Wang, Ming Guo
+
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10533855)]
+[[Official Repo](https://github.com/woldier/TEMSGnet)]
+![img](https://img.shields.io/github/stars/woldier/TEMSGnet)
+</div>
+</div>
+
+
+
 
 
 
@@ -167,6 +209,7 @@ in Remote Sensing Semantic Segmentation
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
+- *2025.05*, Outstanding Graduate Student, Ministry of Education, China \| 四川省优秀毕业生
 - *2024.10*, National Scholarship for Postgraduate Student, Ministry of Education, China \| 研究生国家奖学金
 - *2024.10*, First Class Postgraduate Scholarship, Ministry of Education, China \| 一等学业奖学金. 
 
