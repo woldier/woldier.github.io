@@ -223,6 +223,10 @@ Fei Deng, **Bin Wang***, Peifan Jiang, Xuben Wang, Ming Guo
 - *2024.10*, National Scholarship for Postgraduate Student, Ministry of Education, China \| 研究生国家奖学金
 - *2024.10*, First Class Postgraduate Scholarship, Ministry of Education, China \| 一等学业奖学金. 
 
+# 💻 Reviewer
+- IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+- IEEE Transactions on Multimedia (TMM)
+- ACM International Conference on Multimedia (ACM MM)
 
 [//]: # (# 💬 Invited Talks)
 [//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
