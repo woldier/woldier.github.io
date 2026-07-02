@@ -38,12 +38,16 @@ I'm driven by the impact of technology, especially in the fields of
 # 🔥 News
 - **[2026.05]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([EntSeg](https://ieeexplore.ieee.org/abstract/document/11534173/))! 
 - **[2026.03]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([Bridge](https://ieeexplore.ieee.org/document/11434537))! 
-- **[2026.01]** &nbsp;🎉🎉 One paper is accepted by **ICASSP** ([ProSFDA](https://ieeexplore.ieee.org/abstract/document/11464091/))!  
+- **[2026.01]** &nbsp;🎉🎉 One paper is accepted by **ICASSP 2026 Oral** ([ProSFDA](https://ieeexplore.ieee.org/abstract/document/11464091/))!  
 
 <details markdown="1">
 <summary>▶️ More News</summary>
 
-- **[2024.05]** One paper is accepted by **TGRS** ([TEMSGnet](https://ieeexplore.ieee.org/abstract/document/10533855/))!  
+- **[2025.06]** &nbsp;🧑‍🎓🧑‍🎓 I have graduated with a M.S degree! 
+- **[2025.05]** &nbsp;🏆🏆 Win Outstanding Graduate Student!
+- **[2024.10]** &nbsp;🏆🏆 Win National Scholarship for Graduate Student!
+- **[2024.05]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([TEMSGnet](https://ieeexplore.ieee.org/abstract/document/10533855/))!  
+- **[2024.04]** &nbsp;🎉🎉 One paper is accepted by **CIBM** ([EEGDiR](https://ieeexplore.ieee.org/abstract/document/10533855))
 
 </details>
 
