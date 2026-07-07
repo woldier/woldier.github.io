@@ -53,7 +53,7 @@ I'm driven by the impact of technology, especially in the fields of
 </details>
 
 # 📖 Educations
-- *2025.09 - now*, Ph.D. at [Sichuan University](https://www.scu.edu.cn/), supervised by Prof. Yiguang Liu. 
+- *2025.09 - Present*, Ph.D. at [Sichuan University](https://www.scu.edu.cn/), supervised by Prof. Yiguang Liu. 
 - *2018.09 - 2025.06*, B.S and M.S at [Chengdu University of Technology](https://www.cdut.edu.cn/), supervised by Prof. Fei Deng. 
 
 # 📝 Publications 
