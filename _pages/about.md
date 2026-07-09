@@ -36,7 +36,7 @@ I'm driven by the impact of technology, especially in the fields of
 
 
 # 🔥 News
-- **[2026.07]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([MsRE]())!
+- **[2026.07]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([MsRE](https://ieeexplore.ieee.org/document/11599658))!
 - **[2026.05]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([EntSeg](https://ieeexplore.ieee.org/abstract/document/11534173/))! 
 - **[2026.03]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([Bridge](https://ieeexplore.ieee.org/document/11434537))! 
 - **[2026.01]** &nbsp;🎉🎉 One paper is accepted by **ICASSP 2026 Oral** ([ProSFDA](https://ieeexplore.ieee.org/abstract/document/11464091/))!  
@@ -76,7 +76,7 @@ MsRE: Towards Efficient Remote Sensing Segmentation via Vision Foundation Models
 
 **Bin Wang**, Shun Lv, Zhi Li, Fei Deng and Yiguang Liu
 
-[[Paper](#)]
+[[Paper](https://ieeexplore.ieee.org/document/11599658)]
 [[Project](http://woldier.top/MsRE/)]
 [[Official Repo](https://github.com/woldier/MsRE)]
 ![img](https://img.shields.io/github/stars/woldier/MsRE)
