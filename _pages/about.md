@@ -235,3 +235,22 @@ Fei Deng, **Bin Wang***, Peifan Jiang, Xuben Wang, Ming Guo
 
 [//]: # (# 💻 Internships)
 [//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
+
+# 🌎️ Page Visitor
+
+<div class="visitor-section" style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px; margin-top: 15px;">
+
+  <!-- 顶部访客徽章 -->
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=WoldierWong.woldier.github.io" alt="visitor badge" style="margin-bottom: 5px;">
+    <div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start; gap: 5px;">
+
+
+    <div style="display:inline-block;">
+        <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=WTFuQYv0TPvjzCBLMpm-U3u5m_BIxaffVO9HybykVtc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+    </div>
+
+    <a href="https://info.flagcounter.com/u2NM"><img src="https://s01.flagcounter.com/countxl/u2NM/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+</div>
+</div>
