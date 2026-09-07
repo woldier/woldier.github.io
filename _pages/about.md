@@ -63,6 +63,27 @@ My full paper list can be found at
 
 [//]: # (<a href='https://scholar.google.com.hk/citations?user=Df8myR8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flikyoo%2Flikyoo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.)
 
+
+[//]: # (====================new item=======================================)
+<div class='paper-box'><div class='paper-box-image'>
+    <div>
+        <div class="badge">Under Review</div>
+        <img src='images/vlbridge-img.png' alt="VLBridge" width="100%">
+    </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+VLBridge: Domain Generalizable Remote Sensing Semantic Segmentation via Textual-Guided Tuning
+
+**Bin Wang**, Shuangli Du, Jie Li, Fei Deng and Yiguang Liu
+
+[[Paper]()]
+[[Project](http://woldier.top/VLBridge/)]
+[[Official Repo](https://github.com/woldier/VLBridge)]
+![img](https://img.shields.io/github/stars/woldier/VLBridge)
+</div>
+</div>
+
 [//]: # (====================new item=======================================)
 <div class='paper-box'><div class='paper-box-image'>
     <div>
