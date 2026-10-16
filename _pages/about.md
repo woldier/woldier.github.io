@@ -36,6 +36,7 @@ I'm driven by the impact of technology, especially in the fields of
 
 
 # 🔥 News
+- **[2026.10]** &nbsp;🏆🏆 Win National Scholarship for Ph.D Students!
 - **[2026.07]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([MsRE](https://ieeexplore.ieee.org/document/11599658))!
 - **[2026.05]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([EntSeg](https://ieeexplore.ieee.org/abstract/document/11534173/))! 
 - **[2026.03]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([Bridge](https://ieeexplore.ieee.org/document/11434537))! 
@@ -46,7 +47,7 @@ I'm driven by the impact of technology, especially in the fields of
 
 - **[2025.06]** &nbsp;🧑‍🎓🧑‍🎓 I have graduated with a M.S degree! 
 - **[2025.05]** &nbsp;🏆🏆 Win Outstanding Graduate Student!
-- **[2024.10]** &nbsp;🏆🏆 Win National Scholarship for Graduate Student!
+- **[2024.10]** &nbsp;🏆🏆 Win National Scholarship for Master's Students!
 - **[2024.05]** &nbsp;🎉🎉 One paper is accepted by **TGRS** ([TEMSGnet](https://ieeexplore.ieee.org/abstract/document/10533855/))!  
 - **[2024.04]** &nbsp;🎉🎉 One paper is accepted by **CIBM** ([EEGDiR](https://ieeexplore.ieee.org/abstract/document/10533855))!
 
