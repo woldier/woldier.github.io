@@ -242,8 +242,9 @@ Fei Deng, **Bin Wang***, Peifan Jiang, Xuben Wang, Ming Guo
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
+- *2026.10*, National Scholarship for PhD's Students, Ministry of Education, China \| 博士生国家奖学金
 - *2025.05*, Outstanding Graduate Student, Ministry of Education, China \| 四川省优秀毕业生
-- *2024.10*, National Scholarship for Postgraduate Student, Ministry of Education, China \| 研究生国家奖学金
+- *2024.10*, National Scholarship for Master's Students, Ministry of Education, China \| 研究生国家奖学金
 - *2024.10*, First Class Postgraduate Scholarship, Ministry of Education, China \| 一等学业奖学金. 
 
 # 💻 Reviewer
